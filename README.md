@@ -1,10 +1,10 @@
 # typescript_cheat_sheet
+## 🚀 Did you know that you can declare anonymous and named types in TypeScript?
 
-Here's a guide that highlights the similarities, differences, and use cases of declaring anonymous types and named types in TypeScript:
+### Here's a guide that highlights the similarities, differences, and use cases of declaring anonymous types and named types in TypeScript:
 
 ---
 
-🚀 Did you know that you can declare anonymous and named types in TypeScript?
 
 Anonymous Type:
 ```typescript
@@ -31,17 +31,8 @@ Use Cases:
 - Use anonymous types for simple, one-off type annotations directly where needed.
 - Use named types for reusable type definitions across your codebase, promoting maintainability.
 
+## 🚀
 
-## Interesting Tweet on TypeScript
-
-Check out this tweet by Adeyemi Paul:
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">🚀 Did you know that you can declare anonymous and named types in TypeScript?
-    <a href="https://twitter.com/hashtag/typescript?src=hash&amp;ref_src=twsrc%5Etfw">#typescript</a><br>My opinion:<br>Use anonymous types for simple, one-off type annotations directly where needed.<br>Use named types for reusable type definitions across your codebase, promoting reusability.<br>A vs B <a href="https://t.co/ojlZ9zpGIG">pic.twitter.com/ojlZ9zpGIG</a>
-  </p>&mdash; Adeyemi Paul (@dammyhack) <a href="https://twitter.com/dammyhack/status/1792965890327359745?ref_src=twsrc%5Etfw">May 21, 2024</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 For more insights on TypeScript, follow [Adeyemi Paul](https://twitter.com/dammyhack).
 
